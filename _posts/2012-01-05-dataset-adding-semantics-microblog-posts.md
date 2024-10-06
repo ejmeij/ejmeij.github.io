@@ -1,5 +1,5 @@
 ---
-title: "Dataset for \"Adding Semantics to Microblog Posts\""
+title: "Dataset for 'Adding Semantics to Microblog Posts'"
 date: "2012-01-05"
 categories: 
   - "blog"
