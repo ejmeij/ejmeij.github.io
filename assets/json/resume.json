@@ -14,17 +14,5 @@
       "countryCode": "UK",
       "region": ""
     }
-  },
-  "education": [
-    {
-      "institution": "University of Amsterdam, Amsterdam, The Netherlands",
-      "location": "Amsterdam, The Netherlands",
-      "url": "https://www.uva.nl/",
-      "area": "Information Retrieval",
-      "studyType": "PhD",
-      "startDate": "",
-      "endDate": "2010",
-      "courses": [""]
-    }
-  ]
+  }
 }
