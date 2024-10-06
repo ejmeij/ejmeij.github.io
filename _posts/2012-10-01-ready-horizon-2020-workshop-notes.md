@@ -1,0 +1,155 @@
+---
+title: "Getting ready for Horizon 2020 – Workshop notes"
+date: "2012-10-01"
+categories: 
+  - "blog"
+tags: 
+  - "eip-in-horizon-2020"
+  - "eu"
+  - "getting-ready-for-horizon-2020"
+  - "h2020-eu-programs-cit-eit"
+  - "h2020-kic-ket"
+  - "h2020-sbir"
+  - "h2020-smart-secure-mobility"
+  - "horizon-2020-added-value-manufacturing"
+  - "horizon-2020-era-conference-november"
+  - "horizon-2020-workshop"
+  - "horizon-2020-workshops"
+  - "http-h2020"
+  - "ket-h2020"
+  - "key-enable-technologies-h2020"
+  - "key-enabling-technologies-h2020"
+  - "project"
+  - "projects"
+  - "proposal"
+  - "proposals"
+  - "research"
+coverImage: "A3D9EC17-1321-B0BE-A40DF6F59B7D0C68.FOTO_IN.jpeg"
+---
+
+![Horizon 2020](images/horizon2020.jpg "Horizon 2020")
+
+These are my notes from the "Getting ready for Horizon 2020" workshop, presented by Dr. Seán McCarthy from Hyperion Ltd at CWI on Oct 1 2012.<!--more-->
+
+- Website associated with the workshop, for more information: [http://www.hyperion.ie/horizon2020.htm](http://www.hyperion.ie/horizon2020.htm "http://www.hyperion.ie/horizon2020.htm")
+- There's a 'Horizon 2020' group on LinkedIn
+- Use [http://europa.eu](http://europa.eu "http://europa.eu") to follow ongoing debates on a certain topic (use Google and a conjunctive query)
+- First part on the politics, made for 'directors' – the big picture
+- Very few people aware of FP7, so first a zoom-in on these projects
+    - A little history (from 2000 onwards)...
+    - Horizon 2020 is not called FP-8, because it's a mixture of programs, with strong links to other programs
+- '"Innovation" will be the "new agriculture" for the next 15 years'
+- H2020
+- Europe 2020 Strategy: 7 flagship initiatives
+    - Digital agenda for Europe
+    - Innovation Union
+    - Youth on the move
+    - An agenda for new skills and jobs
+    - Resource efficient Europe
+    - Europe against poverty
+    - An industrial policy for the globalisation era
+- Horizon 2020 is like taking the FP-7 LEGO blocks and reassembling them
+- Separate programs
+    - "Innovation in SMEs" programme – valorisation
+        - Bring technologies to the market
+        - USA's SBIR (~ "STW Valorisation")
+    - KETs (Key Enabling Technologies), since 2009 already.
+        - [http://www.hyperion.ie/ket.htm](http://www.hyperion.ie/ket.htm "http://www.hyperion.ie/ket.htm")
+        - 6.7b EUR
+    - FET
+        - "an idea that might work or not, doesn't matter if it doesn't"
+        - e.g., wearable electronics (influence of music on physiology), nature as computing
+    - EIT (European Institute of Innovation and Technology) = European MIT
+        - Not really a programme, but it has relevant options
+- Funding typically only for "Phase 1," i.e., pre-competitive ideas/activities.
+    - "Funding the checking of the patent, not the filing." Examples of pre-competitive
+    - Examples
+        - ERC
+        - FET
+        - Industrial Leadership Societal Challenges
+        - Eureka (actually between pre-competitive and competitive)
+            - technology transfer
+    - competitive
+        - EIT
+        - EIP (competitive)
+            - Bv. "Smart cities"
+- H2020
+    - has money for VCs, covering the whole value chain
+    - Budget (numbers are still changing)
+        - ~ 87.7b EUR
+        - EIT interesting, see the notes and below
+    - Exercise: for each institute: walk through the documents and identify which programmes etc. are relevant
+    - Trends
+        - FP5-FP6-FP7-H2020: projects -> programmes
+- Part II: FET
+    - little topic in FP-7
+    - Now: 3.5b EUR
+    - radical innovations
+    - FET Open
+        - "what you submit is submitted (no resubmissions)" Although they are pre-proposals
+    - FET Proactive
+    - FET Flagships (FuturICT, e.g.)
+        - two are selected: those will receive EUR 100m per year for 10 years. (But this will need to come from local governments.)
+    - FET Young Explorers
+    - SME
+- EIT
+    - part of DG education
+    - 2007-2013 (309m EUR)
+    - 2014-2020 (3.2b EUR)
+    - proposed (H2020): transfer/valorisation
+    - Research -> industry
+    - 3 KICs (knowledge and innovation communities)
+    - research centres + universities + education (local! regional...)
+    - 1 of them is "EIT ICT Labs"
+        - 2/3 of European R&D spending in ICT
+        - e.g., Eindhoven: Philips + Twente + Novay + TNO-ICT.
+    - another is EIT Climate KIC
+        - e.g., Randstad
+    - H2020: 3 new ones (so 3.2b EUR)
+        - Added-value manufacturing (Key Enabling Tech)
+        - Smart secure societies
+        - Urban mobility
+- "Joint programming"
+    - Local money, no EC involvement although they want to
+- ERA-Net, ERA-Net Plus
+    - EU + national funding
+    - next ones
+        - urban Europe
+        - climate change
+        - microbial challenge
+        - aging
+        - water challenges
+        - seas and oceans
+- Public procurement
+    - small companies can bid for small parts of projects (public tender)
+- EIP (European Innovation Partnerships)
+    - related to the EU 2020 flagships (see above)
+- Part IV – changes in H2020 from FP7
+    - overhead
+        - FP7: actual overhead
+        - H2020 (proposed): 20% of eligible costs
+    - funding
+        - FP7: 75% research, 50% demonstration, 100 mgmt
+        - H2020 (proposed): 100% research, 75% innovation
+        - impacts mainly SMEs, companies
+    - productive hours (H2020) 1680 hours per annum)
+    - decision expected before the end of the year
+    - evaluation criteria
+        - old
+            - science
+            - implementation
+            - impact
+        - new
+            - excellence
+            - impact
+            - implementation
+        - Open access, no time sheets
+- Part V – Lobbying
+    - Top-down (from EU) vs bottom-up (from researchers) lobbying. How? Through ERC, research infrastructure, etc.
+    - "Lobbying," i.e. the EU asks for comments on the drafts of the programme from EU researchers
+    - Make sure your topic is in the call (draft first and final also of course)
+    - Decision-making process…
+- Part X – Getting ready for H2020
+    - Getting ready for H2020
+        - Different strategies, see the notes
+- Last part

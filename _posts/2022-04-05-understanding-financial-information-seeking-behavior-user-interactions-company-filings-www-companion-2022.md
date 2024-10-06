@@ -1,0 +1,10 @@
+---
+title: "Understanding Financial Information Seeking Behavior from User Interactions with Company Filings (WWW companion 2022)"
+date: "2022-04-05"
+categories: 
+  - "blog"
+  - "conference"
+  - "publication"
+---
+
+Publicly-traded companies are required to regularly file financial statements and disclosures. Analysts, investors, and regulators leverage these filings to support decision making, with high financial and legal stakes. Despite their ubiquity in finance, little is known about the information seeking behavior of users accessing such filings. In this work, we present the first study of this behavior. We analyze 14 years of logs of users accessing company filings of more than 600K distinct companies on the U.S. Securities and Exchange Commission’s (SEC) Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system, the primary resource for accessing company filings. We provide an analysis of the information-seeking behavior for this high-impact domain. We find that little behavioral history is available for the majority of users, while frequent users have rich histories. Most sessions focus on filings belonging to a small number of companies, and individual users are interested in a limited number of companies. Out of all sessions, 66% contain filings from one or two companies and 50% of frequent users are interested in six companies or less. Understanding user interactions with EDGAR can suggest ways to enhance the user journey in browsing filings, e.g., via filing recommendation. Our work provides a stepping stone for the academic community to tackle retrieval and recommendation tasks for the finance domain.

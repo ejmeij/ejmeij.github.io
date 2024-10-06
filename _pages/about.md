@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
+    # >
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+# news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
 ---
+This is the website of Edgar Meij. I lead several groups of researchers and engineers at Bloomberg, responsible for all AI Platforms at the company. Before this, I led all company-wide initiatives on improving search and discovery, including question answering and autocomplete using the Bloomberg Knowledge Graph together with its value-add machine learning-based Analytics. I am also a  keynote speaker and senior scientist working on AI, Fintech, information retrieval, natural language processing, and machine learning and still active as senior program committee member for the main conferences in AI. I continue to be interested in advancing the state of the art in information retrieval and natural language processing both in industry and at scale. My research in the past has mainly focused on semantic search, namely, designing entity-oriented search systems that employ advanced NLP and machine learning techniques to improve user models, search, recommender systems, and content matching.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Before Bloomberg, I was a research scientist at Yahoo Labs, working on various semantic search, query understanding, and recommender systems projects, employing knowledge graphs, query log analysis, machine learning, and distributed computing. Before that I did a post-doc at the [Information and Language Processing Systems (ILPS)](http://ilps.science.uva.nl/ "http://ilps.science.uva.nl/") group of the Intelligent Systems Lab (ISLA) of the Informatics Institute of the [University of Amsterdam](http://www.uva.nl/ "http://www.uva.nl"). Research projects I have been involved there with include VL-e, CCCT, and [Daeso](http://daeso.uvt.nl/ "Daeso website"). Most recently, I was working on DutchSemCor and LiMoSINe, two EU projects that center around semantic search, semantic annotations, and semantic information access. For the latter I was a workpackage leader.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2010 I finished my PhD under supervision of [Maarten de Rijke](http://staff.science.uva.nl/%7Emdr "http://staff.science.uva.nl/~mdr"). The topic of my PhD was leveraging conceptual knowledge from [ontologies](http://en.wikipedia.org/wiki/Ontology "http://en.wikipedia.org/wiki/Ontology"), [thesauri](http://en.wikipedia.org/wiki/Thesaurus "http://en.wikipedia.org/wiki/Thesaurus"), [tags](http://en.wikipedia.org/wiki/Tag_%28metadata%29 "http://en.wikipedia.org/wiki/Tag_(metadata)"), [annotations](http://en.wikipedia.org/wiki/Annotation "http://en.wikipedia.org/wiki/Annotation"), or any other (structured) knowledge source to enhance information access. Information access – in this sense – entails [retrieval](http://en.wikipedia.org/wiki/Information_retrieval "http://en.wikipedia.org/wiki/Information_retrieval") and [navigation](http://en.wikipedia.org/wiki/Navigation_research "http://en.wikipedia.org/wiki/Navigation_research") of both documents and knowledge. To this end I am using statistical language modeling techniques, which are naturally capable of capturing language use and which I employ to bridge the semantic gap between (a priori defined) knowledge and (observed) language. ((Or, as Ludwig Wittgenstein said: “Meaning is use”. [http://en.wikipedia.org/wiki/Ludwig\_Wittgenstein](http://en.wikipedia.org/wiki/Ludwig_Wittgenstein "http://en.wikipedia.org/wiki/Ludwig_Wittgenstein"))) Using this framework I am able to compare queries, documents, concepts, and relations on a conceptual level using language observations. More information can be found at [http://phdthes.is/](http://phdthes.is/ "http://phdthes.is/"). In 2008 I spent some time in Barcelona, where I worked with [Hugo Zaragoza](http://www.linkedin.com/in/hugozaragoza "http://research.yahoo.com/~hugoz") and Peter Mika at [Yahoo Labs](http://labs.yahoo.com/ "http://research.yahoo.com/"). My research interests include, but are not limited by: [(Semantic) Information Retrieval](http://en.wikipedia.org/wiki/Semantic_search "http://en.wikipedia.org/wiki/Semantic_search"), the [Semantic Web](http://en.wikipedia.org/wiki/Semantic_web "http://en.wikipedia.org/wiki/Semantic_web"), [Language Modeling](http://en.wikipedia.org/wiki/Language_model "http://en.wikipedia.org/wiki/Language_model"), [Big data](http://en.wikipedia.org/wiki/Apache_Hadoop "Hadoop"), and [Data](http://en.wikipedia.org/wiki/Data_Mining "http://en.wikipedia.org/wiki/Data_Mining") and [Text Mining](http://en.wikipedia.org/wiki/Text_mining "http://en.wikipedia.org/wiki/Text_mining").
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm passionate about semantic search, information retrieval, search engines, semantic web, machine learning, information visualization, and mathematics and this website is my digital business card as well as my personal blog. I write on information retrieval, semantic web technologies, research in general, and, on occasion, stuff that doesn’t fit neatly into one of these categories. I also occasionally write about resources I discover or find interesting.
