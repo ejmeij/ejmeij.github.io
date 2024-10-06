@@ -1,11 +1,11 @@
 ---
 title: "Dynamic query modeling for related content finding"
 date: "2015-08-06"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "active-learning"
   - "dynamic-query-modeling-for-related-content-finding"
   - "edgar-ie-is-watching"

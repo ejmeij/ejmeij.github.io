@@ -1,7 +1,7 @@
 ---
 title: "Recent papers"
 date: "2022-01-02"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "journal"

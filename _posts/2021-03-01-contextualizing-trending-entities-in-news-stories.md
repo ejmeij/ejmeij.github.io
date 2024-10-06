@@ -1,11 +1,11 @@
 ---
 title: "Contextualizing Trending Entities in News Stories"
 date: "2021-03-01"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "information-retrieval"
   - "learning-to-rank"
   - "trend-detection"

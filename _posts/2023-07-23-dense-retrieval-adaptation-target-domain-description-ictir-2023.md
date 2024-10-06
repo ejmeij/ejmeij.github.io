@@ -1,7 +1,7 @@
 ---
 title: "Dense Retrieval Adaptation using Target Domain Description (ICTIR 2023)"
 date: "2023-07-23"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"

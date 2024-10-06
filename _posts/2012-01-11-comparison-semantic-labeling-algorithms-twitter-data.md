@@ -1,9 +1,9 @@
 ---
 title: "A comparison of five semantic linking algorithms on tweets"
 date: "2012-01-11"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "algorithm-to-compare-text-semantically"
   - "clef-2012-replab"
   - "compare-semantic-search-with-full-text-search"
@@ -44,7 +44,7 @@ First, some general observations with respect to each API.
 - Wikimeta, well... First of all, the returned XML is not valid, containing unescaped '&' characters. After having manually fixed the output, it started nicely, but the web service seems to have crashed after processing 50 tweets. Update: things are back up and it finished within a few minutes.
 - Finally, our method is also quite fast; it finished processing all tweets in under 90 seconds. Obviously we have a local installation of this, so there is little networking overhead.
 
-Now, onto the results. Below, I report on a number of [metrics](http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-ranked-retrieval-results-1.html "Evaluation of ranked retrieval results "), including average R-precision, i.e., precision at _R_, where _R_ denotes the number of relevant concepts per tweet, reciprocal rank, i.e., the reciprocal of the rank of the first relevant concept, recall, and MAP (mean average precision)
+Now, onto the results. Below, I report on a number of [metrics](http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-ranked-retrieval-results-1.html "Evaluation of ranked retrieval results "), including average R-precision, i.e., precision at _R_, where *R* denotes the number of relevant concepts per tweet, reciprocal rank, i.e., the reciprocal of the rank of the first relevant concept, recall, and MAP (mean average precision)
 
 \[table id=1 /\]
 

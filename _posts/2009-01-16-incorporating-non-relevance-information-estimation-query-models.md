@@ -1,10 +1,10 @@
 ---
 title: "Incorporating Non-Relevance Information in the Estimation of Query Models"
 date: "2009-01-16"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "information-retrieval"
   - "language-modeling"
   - "trec-relevance-feedback"

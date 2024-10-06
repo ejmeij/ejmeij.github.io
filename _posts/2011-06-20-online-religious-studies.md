@@ -1,10 +1,10 @@
 ---
 title: "Online Religious Studies"
 date: "2011-06-20"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "adaptive-temporal-query-modeling"
   - "computational-humanities"
   - "information-retrieval"

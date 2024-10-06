@@ -1,10 +1,10 @@
 ---
 title: "OpenGeist: Insight in the Stream of Page Views on Wikipedia"
 date: "2012-07-03"
-categories: 
+categories:
   - "publication"
   - "workshop"
-tags: 
+tags:
   - "api"
   - "bettina-berendt"
   - "edgar-meij"

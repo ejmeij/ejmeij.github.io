@@ -1,11 +1,11 @@
 ---
 title: "Identifying Notable News Stories"
 date: "2020-04-14"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "information-retrieval"
   - "knowledge-graph"
 coverImage: "ECIR2020-e1614421462762.jpeg"

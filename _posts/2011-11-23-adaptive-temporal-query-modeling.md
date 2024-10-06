@@ -1,10 +1,10 @@
 ---
 title: "Adaptive Temporal Query Modeling"
 date: "2011-11-23"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "adaptive-temporal-query-modeling"
   - "burstiness"
   - "document-priors"

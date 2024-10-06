@@ -1,9 +1,9 @@
 ---
 title: "Entity Linking and Retrieval for Semantic Search (WSDM 2014)"
 date: "2014-02-24"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "edgar-meij"
   - "entity-finding"
   - "entity-linking"

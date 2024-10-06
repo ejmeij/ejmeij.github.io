@@ -1,9 +1,9 @@
 ---
 title: "Hello world!"
 date: "2011-10-12"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "edgar-meij-uva"
   - "edgar-search-text"
   - "meeyj"

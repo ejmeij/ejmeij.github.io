@@ -1,10 +1,10 @@
 ---
 title: "Investigating the Semantic Gap through Query Log Analysis"
 date: "2009-10-25"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "conference-paper-on-search-engine-query-relevance"
   - "dbpedia-logo-eps"
   - "how-to-easily-semanticize-your-website-for-semantic-web"

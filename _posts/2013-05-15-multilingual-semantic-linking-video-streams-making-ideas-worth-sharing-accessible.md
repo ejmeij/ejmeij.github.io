@@ -1,11 +1,11 @@
 ---
 title: "Multilingual Semantic Linking for Video Streams: Making 'Ideas Worth Sharing' More Accessible"
 date: "2013-05-15"
-categories: 
+categories:
   - "blog"
   - "publication"
   - "workshop"
-tags: 
+tags:
   - "803"
   - "broadcast"
   - "closed-captions"

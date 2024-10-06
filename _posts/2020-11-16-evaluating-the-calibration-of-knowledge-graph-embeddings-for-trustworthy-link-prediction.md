@@ -1,11 +1,11 @@
 ---
 title: "Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction"
 date: "2020-11-16"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "httpsedgar-meij-pro"
 coverImage: "adNEfAT4-e1614421393177.jpg"
 ---

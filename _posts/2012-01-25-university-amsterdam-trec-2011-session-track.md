@@ -1,10 +1,10 @@
 ---
 title: "The University of Amsterdam at the TREC 2011 Session Track"
 date: "2012-01-25"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "how-to-get-trec-2011-session-track-data-set"
   - "information-retrieval"
   - "learning-to-rank"

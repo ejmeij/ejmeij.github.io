@@ -1,9 +1,9 @@
 ---
 title: "LREC 2012 Workshop on Language Engineering for Online Reputation Management"
 date: "2012-01-27"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "2012-online-reputation"
   - "entity-linking"
   - "lrec-2012-workshop-on-online-reputation-management"

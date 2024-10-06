@@ -1,7 +1,7 @@
 ---
 title: "News Article Retrieval in Context for Event-centric Narrative Creation"
 date: "2021-07-11"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"

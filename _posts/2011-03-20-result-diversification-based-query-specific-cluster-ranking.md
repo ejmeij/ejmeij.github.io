@@ -1,10 +1,10 @@
 ---
 title: "Result diversification based on query-specific cluster ranking"
 date: "2011-03-20"
-categories: 
+categories:
   - "journal"
   - "publication"
-tags: 
+tags:
   - "clustering"
   - "conference-results-ranking-diversification"
   - "diversification-what-specifically-are-these-strategies-based-on"

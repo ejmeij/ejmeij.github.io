@@ -1,11 +1,11 @@
 ---
 title: "Feeding the Second Screen: Semantic Linking based on Subtitles"
 date: "2013-02-18"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "d-odijk-semantic-linking"
   - "edgar-meij"
   - "edgar-meij-concept-twitter"

@@ -1,11 +1,11 @@
 ---
 title: "Fast and Space-Efficient Entity Linking in Queries"
 date: "2015-01-20"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "compression"
   - "entity-linking"
   - "fast-and-space-efficient-entity-linking-in-queries"

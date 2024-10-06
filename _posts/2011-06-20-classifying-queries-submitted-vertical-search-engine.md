@@ -1,10 +1,10 @@
 ---
 title: "Classifying Queries Submitted to a Vertical Search Engine"
 date: "2011-06-20"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "edgar-text-mining"
   - "information-retrieval"
   - "microblogging-mining-wiki"

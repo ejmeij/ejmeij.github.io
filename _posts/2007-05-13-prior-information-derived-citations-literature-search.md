@@ -1,10 +1,10 @@
 ---
 title: "Using Prior Information Derived from Citations in Literature Search"
 date: "2007-05-13"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "citation-analysis"
   - "document-priors"
   - "language-modeling"

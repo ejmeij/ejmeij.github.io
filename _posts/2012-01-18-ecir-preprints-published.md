@@ -1,9 +1,9 @@
 ---
 title: "ECIR preprints published"
 date: "2012-01-18"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "ecir-papers"
   - "ecir-preprints"
   - "preprint-paper-ecir"

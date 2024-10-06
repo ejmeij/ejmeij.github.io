@@ -1,10 +1,10 @@
 ---
 title: "Dir 2011 - Dutch-Belgian Information Retrieval Workshop"
 date: "2011-01-20"
-categories: 
+categories:
   - "proceedings"
   - "publication"
-tags: 
+tags:
   - "dir-2011-dutch-belgian-information-retrieval-workshop-proceedings"
   - "dutch-belgian-information-retrieval-workshop"
   - "edgar-meij-dir-2011"

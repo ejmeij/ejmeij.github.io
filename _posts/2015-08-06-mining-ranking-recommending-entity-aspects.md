@@ -1,11 +1,11 @@
 ---
 title: "Mining, ranking and recommending entity aspects"
 date: "2015-08-06"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "entity-aspects"
   - "entity-linking"
   - "httpsedgar-meij-protagentity-aspects"

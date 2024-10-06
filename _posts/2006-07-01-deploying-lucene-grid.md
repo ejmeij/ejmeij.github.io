@@ -1,10 +1,10 @@
 ---
 title: "Deploying Lucene on the Grid"
 date: "2006-07-01"
-categories: 
+categories:
   - "publication"
   - "workshop"
-tags: 
+tags:
   - "grid-computing"
   - "gridlucene"
   - "information-retrieval"

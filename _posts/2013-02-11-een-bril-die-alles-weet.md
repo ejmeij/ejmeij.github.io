@@ -1,11 +1,11 @@
 ---
 title: "Een bril die alles weet"
 date: "2013-02-11"
-categories: 
+categories:
   - "blog"
   - "publication"
   - "publicity"
-tags: 
+tags:
   - "alle-bril-in"
   - "allesbril"
   - "briel-waardoor-je-200-meter-kunt-praten"

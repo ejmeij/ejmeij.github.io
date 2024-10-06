@@ -1,10 +1,10 @@
 ---
 title: "My first BioAID: heuristic support for hypothesis construction from literature"
 date: "2007-04-13"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "aida"
   - "aida-edgar"
   - "aida-tool-box"

@@ -1,11 +1,11 @@
 ---
 title: "Learning to Explain Entity Relationships in Knowledge Graphs"
 date: "2015-07-23"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "entity-linking"
   - "entity-linking-and-retrieval"
   - "information-retrieval"

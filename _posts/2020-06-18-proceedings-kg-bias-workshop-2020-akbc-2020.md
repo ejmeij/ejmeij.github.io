@@ -1,11 +1,11 @@
 ---
 title: "Proceedings of the KG-BIAS Workshop 2020 at AKBC 2020"
 date: "2020-06-18"
-categories: 
+categories:
   - "blog"
   - "proceedings"
   - "publication"
-tags: 
+tags:
   - "edgar-meij-bloomberg-lp"
   - "meij"
 coverImage: "akbc-e1605731262495.png"

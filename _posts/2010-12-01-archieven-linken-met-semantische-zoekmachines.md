@@ -1,10 +1,10 @@
 ---
 title: "Archieven Linken met Semantische Zoekmachines"
 date: "2010-12-01"
-categories: 
+categories:
   - "publication"
   - "publicity"
-tags: 
+tags:
   - "ans-huurnink"
   - "edgar-meij-zoekmachines"
   - "entity-linking"

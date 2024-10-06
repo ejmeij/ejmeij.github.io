@@ -1,10 +1,10 @@
 ---
 title: "Investigating the Demand Side of Semantic Search through Query Log Analysis"
 date: "2009-04-17"
-categories: 
+categories:
   - "publication"
   - "workshop"
-tags: 
+tags:
   - "ad-hoc-log-analysis"
   - "dbpedia"
   - "dbpedia-machine-learning"

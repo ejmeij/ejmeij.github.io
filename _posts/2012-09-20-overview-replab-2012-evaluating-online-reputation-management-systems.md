@@ -1,11 +1,11 @@
 ---
 title: "Overview of RepLab 2012: Evaluating Online Reputation Management Systems"
 date: "2012-09-20"
-categories: 
+categories:
   - "blog"
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "2012-online-reputation-management-pdf"
   - "clef"
   - "clef-2012-replab"

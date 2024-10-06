@@ -1,10 +1,10 @@
 ---
 title: "Towards a combined model for search and navigation of annotated documents"
 date: "2008-07-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "entity-linking"
   - "language-modeling"
   - "logo-penerbitu-buku-internasional"

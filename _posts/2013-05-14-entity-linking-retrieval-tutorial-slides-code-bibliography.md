@@ -1,9 +1,9 @@
 ---
 title: "Entity Linking and Retrieval Tutorial – Slides, Code, and Bibliography"
 date: "2013-05-14"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "bibliographic-retrieval-tutorial"
   - "d2w"
   - "edgar-meij-entity-linking-presentation"

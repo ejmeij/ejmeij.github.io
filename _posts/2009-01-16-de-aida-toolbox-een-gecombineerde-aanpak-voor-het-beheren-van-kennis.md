@@ -1,10 +1,10 @@
 ---
 title: "De Aida toolbox: Een gecombineerde aanpak voor het beheren van kennis"
 date: "2009-01-16"
-categories: 
+categories:
   - "publication"
   - "publicity"
-tags: 
+tags:
   - "aida"
   - "web-services"
   - "workflows"

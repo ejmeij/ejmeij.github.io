@@ -1,10 +1,10 @@
 ---
 title: "Structuring and extracting knowledge for the support of hypothesis generation in molecular biology"
 date: "2009-10-20"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "aida"
   - "api-untuk-text-mining"
   - "api-untuk-web"

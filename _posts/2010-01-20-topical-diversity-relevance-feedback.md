@@ -1,10 +1,10 @@
 ---
 title: "Topical Diversity and Relevance Feedback"
 date: "2010-01-20"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "diversity-topic-feedback"
   - "information-retrieval"
   - "language-modeling"

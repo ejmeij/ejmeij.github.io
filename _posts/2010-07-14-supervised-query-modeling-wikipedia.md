@@ -1,10 +1,10 @@
 ---
 title: "Supervised query modeling using Wikipedia"
 date: "2010-07-14"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "dbpedia"
   - "entity-linking"
   - "information-retrieval"

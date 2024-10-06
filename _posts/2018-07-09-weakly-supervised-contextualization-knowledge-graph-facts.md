@@ -1,11 +1,11 @@
 ---
 title: "Weakly-supervised Contextualization of Knowledge Graph Facts"
 date: "2018-07-09"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "artificial-intelligence"
   - "context"
   - "entity-linking"

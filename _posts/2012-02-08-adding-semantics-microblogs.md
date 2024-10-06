@@ -1,10 +1,10 @@
 ---
 title: "Adding Semantics to Microblog Posts"
 date: "2012-02-08"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "adding-semantics-to-microblgs-post"
   - "adding-semantics-to-microblog-posts"
   - "adding-semantics-to-microblog-posts-bibtex"

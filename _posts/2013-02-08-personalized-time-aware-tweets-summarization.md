@@ -1,10 +1,10 @@
 ---
 title: "Personalized Time-Aware Tweets Summarization"
 date: "2013-02-08"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "entity-linking"
   - "personalized-time-aware-tweets-summarization"
   - "semantic-linking"

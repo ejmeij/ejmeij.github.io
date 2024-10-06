@@ -1,10 +1,10 @@
 ---
 title: "Conceptual language models for domain-specific retrieval"
 date: "2010-07-02"
-categories: 
+categories:
   - "journal"
   - "publication"
-tags: 
+tags:
   - "clef"
   - "information-retrieval"
   - "language-modeling"

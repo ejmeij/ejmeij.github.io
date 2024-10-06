@@ -1,10 +1,10 @@
 ---
 title: "People searching for people: analysis of a people search engine log"
 date: "2011-07-20"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "another-name-for-publishing-search-logs"
   - "application-for-publishing-search-logs-report"
   - "applications-of-publishing-search-logs"

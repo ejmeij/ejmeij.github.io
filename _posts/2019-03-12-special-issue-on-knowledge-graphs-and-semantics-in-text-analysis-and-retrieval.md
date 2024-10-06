@@ -1,11 +1,11 @@
 ---
 title: "Special issue on knowledge graphs and semantics in text analysis and retrieval"
 date: "2019-03-12"
-categories: 
+categories:
   - "blog"
   - "journal"
   - "publication"
-tags: 
+tags:
   - "entity-linking"
   - "information-retrieval"
   - "kg4ir"

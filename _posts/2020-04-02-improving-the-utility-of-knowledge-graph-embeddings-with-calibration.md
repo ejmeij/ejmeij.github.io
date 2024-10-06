@@ -1,11 +1,11 @@
 ---
 title: "Improving the Utility of Knowledge Graph Embeddings with Calibration"
 date: "2020-04-02"
-categories: 
+categories:
   - "blog"
   - "in-progress"
   - "publication"
-tags: 
+tags:
   - "calibration"
   - "kbp"
   - "knowledge-base-population"

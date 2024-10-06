@@ -1,11 +1,11 @@
 ---
 title: "Related Entity Finding on Highly-heterogeneous Knowledge Graphs"
 date: "2018-08-28"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "knowledge-graph"
   - "meij"
 coverImage: "ASONAMlogo.png"

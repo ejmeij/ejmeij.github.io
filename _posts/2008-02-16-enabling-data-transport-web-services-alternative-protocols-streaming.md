@@ -1,10 +1,10 @@
 ---
 title: "Enabling Data Transport between Web Services through alternative protocols and Streaming"
 date: "2008-02-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "agroinformatica"
   - "aida"
   - "api"

@@ -1,10 +1,10 @@
 ---
 title: "Concept models for domain-specific search"
 date: "2009-02-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "clef"
   - "concept-domain-specific"
   - "information-retrieval"

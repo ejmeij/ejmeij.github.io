@@ -1,9 +1,9 @@
 ---
 title: "Entity Linking and Retrieval Tutorial @ SIGIR 2013 – Slides, Code, and Bibliography"
 date: "2013-07-29"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "bibliographic-retrieval-tutorial"
   - "d2w"
   - "entity-linking"

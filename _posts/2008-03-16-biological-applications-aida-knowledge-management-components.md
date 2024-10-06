@@ -1,10 +1,10 @@
 ---
 title: "Biological applications of Aida knowledge management components"
 date: "2008-03-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "aida"
   - "aida-knowledge"
   - "applications-of-aida"

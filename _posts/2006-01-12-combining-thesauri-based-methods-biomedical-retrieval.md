@@ -1,10 +1,10 @@
 ---
 title: "Combining Thesauri-based Methods for Biomedical Retrieval"
 date: "2006-01-12"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "conceptual-mesh"
   - "edgar-mesh-gayk"
   - "information-retrieval"

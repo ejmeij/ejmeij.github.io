@@ -1,10 +1,10 @@
 ---
 title: "Bootstrapping Language Associated with Biomedical Entities"
 date: "2008-01-16"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "bootstrapping-language-model"
   - "entity-trec-entity-prior"
   - "information-extraction"

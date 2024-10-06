@@ -1,10 +1,10 @@
 ---
 title: "Dir 2011: the eleventh Dutch-Belgian information retrieval workshop"
 date: "2011-05-20"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "dir-2011-dutch-belgian-information-retrieval-workshop"
   - "dir-2014-dutch-information-retrieval"
   - "dir-amsterdam-dutch-belgian"
@@ -18,7 +18,7 @@ The 11th edition of the annual Dutch-Belgian Information Retrieval workshop (DIR
 
 \[bibtex key=forum:2011:dir\]
 
-![ACM DL Author-ize service](images/oa.gif)[DIR 2011: the eleventh Dutch-Belgian information retrieval workshop](http://dl.acm.org/authorize?425372 "DIR 2011: the eleventh Dutch-Belgian information retrieval workshop")
+[DIR 2011: the eleventh Dutch-Belgian information retrieval workshop](http://dl.acm.org/authorize?425372 "DIR 2011: the eleventh Dutch-Belgian information retrieval workshop")
 
 [Corrado Boscarino](http://dl.acm.org/author_page.cfm?id=81485642508), [Katja Hofmann](http://dl.acm.org/author_page.cfm?id=81485654981), [Valentin Jijkoun](http://dl.acm.org/author_page.cfm?id=81309511039), [Edgar Meij](http://dl.acm.org/author_page.cfm?id=81363603916), [Maarten de Rijke](http://dl.acm.org/author_page.cfm?id=81485650096), [Wouter Weerkamp](http://dl.acm.org/author_page.cfm?id=81485654972)  
 ACM SIGIR Forum, 2011

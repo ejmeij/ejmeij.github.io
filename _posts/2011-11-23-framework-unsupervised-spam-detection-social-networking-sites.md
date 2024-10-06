@@ -1,10 +1,10 @@
 ---
 title: "A Framework for Unsupervised Spam Detection in Social Networking Sites"
 date: "2011-11-23"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "a-framework-for-unsupervised-spam-detection-in-social-networking-sites"
   - "a-geometric-framework-for-unsupervised-spam-detection-in-soical-networking"
   - "an-unsuppervised-frameowkr-maarten-bosma"

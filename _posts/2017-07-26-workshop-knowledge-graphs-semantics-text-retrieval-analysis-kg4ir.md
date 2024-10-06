@@ -1,11 +1,11 @@
 ---
 title: "The First Workshop on Knowledge Graphs and Semantics for Text Retrieval and Analysis (KG4IR)"
 date: "2017-07-26"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "artificial-intelligence"
   - "entity-linking"
   - "entity-linking-and-retrieval"

@@ -1,10 +1,10 @@
 ---
 title: "Do support groups members disclose less to their partners? the dynamics of HIV disclosure in four African countries"
 date: "2013-06-24"
-categories: 
+categories:
   - "journal"
   - "publication"
-tags: 
+tags:
   - "bettina-berendt"
   - "disclosure"
   - "do-support-groups-menbers-disclose-less-to-their-partnersthe-dynamics-of-hiv-disclosure-in-four-african-countries"

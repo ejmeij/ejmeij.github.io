@@ -1,10 +1,10 @@
 ---
 title: "The University of Amsterdam at Trec 2010: Session, Entity, and Relevance Feedback"
 date: "2011-01-20"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "edgar-information-retrieval"
   - "information-retrieval"
   - "language-modeling"

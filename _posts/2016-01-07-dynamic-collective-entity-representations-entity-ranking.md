@@ -1,11 +1,11 @@
 ---
 title: "Dynamic Collective Entity Representations for Entity Ranking"
 date: "2016-01-07"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "entity-linking"
   - "httpedgar-meij-prodynamic-collective-entity-representations-entity-ranking"
   - "information-retrieval"

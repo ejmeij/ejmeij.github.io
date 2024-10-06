@@ -1,10 +1,10 @@
 ---
 title: "The University of Amsterdam at Trec 2008"
 date: "2008-11-16"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "blog-search-recency-retrieval"
   - "conclusion-of-an-feedback"
   - "conclusion-of-relevance-feedback"

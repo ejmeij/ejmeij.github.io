@@ -1,9 +1,9 @@
 ---
 title: "Linking queries to entities"
 date: "2014-02-24"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "entity-linking"
   - "entity-linking-bio-energy"
   - "entity-linking-query-yahoo"

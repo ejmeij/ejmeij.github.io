@@ -1,10 +1,10 @@
 ---
 title: "A query model based on normalized log-likelihood"
 date: "2009-11-19"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "a-query-model-based-on-normalized-log-likelihood"
   - "information-retrieval"
   - "language-modeling"

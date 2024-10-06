@@ -1,10 +1,10 @@
 ---
 title: "Semantic disclosure in an e-Science environment"
 date: "2009-03-16"
-categories: 
+categories:
   - "books-or-contributions-to-books"
   - "publication"
-tags: 
+tags:
   - "aida"
   - "annals-of-information-system-aois-website"
   - "annals-of-information-systems-aois-springer"

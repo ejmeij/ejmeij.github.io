@@ -1,10 +1,10 @@
 ---
 title: "Parsimonious concept modeling"
 date: "2008-07-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "information-retrieval"
   - "language-modeling"
   - "mesh"

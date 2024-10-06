@@ -1,11 +1,11 @@
 ---
 title: "Generating descriptions of entity relationships"
 date: "2017-01-10"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "entity-linking"
   - "entity-linking-and-retrieval"
   - "information-retrieval"

@@ -1,11 +1,11 @@
 ---
 title: "Statistical Language Models for Information Access: A Practical Guide"
 date: "2011-01-01"
-categories: 
+categories:
   - "books-or-contributions-to-books"
   - "in-progress"
   - "publication"
-tags: 
+tags:
   - "httpedgar-meij-protagpenerbit-buku-internasional-logo-kuda"
   - "httpsedgar-meij-protaglogo-penerbit-buku-internasional"
   - "lambang-penerbit-buku-internasional"
@@ -22,5 +22,3 @@ tags:
   - "penerbit-internasional"
 coverImage: "springer.jpg"
 ---
-
-

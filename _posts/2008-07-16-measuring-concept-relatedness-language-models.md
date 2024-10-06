@@ -1,10 +1,10 @@
 ---
 title: "Measuring Concept Relatedness Using Language Models"
 date: "2008-07-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "edgar-meij-sigir"
   - "lod-for-pmi"
   - "lod-in-pmi"

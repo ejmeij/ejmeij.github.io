@@ -1,10 +1,10 @@
 ---
 title: "Thesaurus-Based Feedback to Support Mixed Search and Browsing Environments"
 date: "2007-09-13"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "entity-trec-entity-prior"
   - "information-retrieval"
   - "language-modeling"

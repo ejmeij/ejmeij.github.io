@@ -1,10 +1,10 @@
 ---
 title: "Van Case-Based Reasoning tot Information Retrieval; Case retrieval voor de helpdesk van een webhosting bedrijf"
 date: "2005-09-01"
-categories: 
+categories:
   - "publication"
   - "theses"
-tags: 
+tags:
   - "a-research-thesis-in-case-based-reasoning-applied-to-information-retrieval"
   - "case-based-reasoning"
   - "case-based-reasoning-papers-2011"

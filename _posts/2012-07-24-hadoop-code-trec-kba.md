@@ -1,9 +1,9 @@
 ---
 title: "Hadoop code for TREC KBA"
 date: "2012-07-24"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "edgar-meij"
   - "edgar-meij-hadoop"
   - "edgar-meij-publications"

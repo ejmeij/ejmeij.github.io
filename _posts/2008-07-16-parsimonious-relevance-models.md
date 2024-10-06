@@ -1,10 +1,10 @@
 ---
 title: "Parsimonious Relevance Models"
 date: "2008-07-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "bettina-berendt"
   - "dpea-em-parsimony"
   - "language-modeling"

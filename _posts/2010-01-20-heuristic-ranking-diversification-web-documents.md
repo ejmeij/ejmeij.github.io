@@ -1,10 +1,10 @@
 ---
 title: "Heuristic Ranking and Diversification of Web Documents"
 date: "2010-01-20"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "ambiguous-and-faceted-query-trec"
   - "clustering"
   - "diversity"

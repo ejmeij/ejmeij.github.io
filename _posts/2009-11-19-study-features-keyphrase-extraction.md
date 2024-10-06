@@ -1,11 +1,11 @@
 ---
 title: "A Comparative Study of Features for Keyphrase Extraction"
 date: "2009-11-19"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "a-comparative-study-of-knowledge-management"
   - "automatic-keyphrase-extraction-tweet"
   - "comparative-study-of-features-for-keyphrase-extraction-in"

@@ -1,11 +1,11 @@
 ---
 title: "Zoekmachines van de toekomst"
 date: "2012-02-12"
-categories: 
+categories:
   - "blog"
   - "publication"
   - "publicity"
-tags: 
+tags:
   - "code-voor-zoekfunctie-website"
   - "dbpedia"
   - "edgar-meij-zoekmachines-van-de-toekomst"
@@ -46,7 +46,7 @@ Een veelvoorkomende definitie van een ‘entiteit’ omvat personen, bedrijven, 
 
 Wikipedia is uitgegroeid tot een aanzienlijke kennisbron en het aantal Wikipediapagina’s blijft nog steeds gestaag groeien. Een van de interessante eigenschappen van Wikipedia in de context van semantische zoekmachines is dat iedere entiteit geassocieerd is met een door mensen bewerkte beschrijving, zodat ze makkelijk gevonden en beschreven kunnen worden. Ook bevat Wikipedia structurele informatie in de vorm van (1) categorieën, (2) hyperlinks tussen artikelen en (3) infoboxes en sjablonen. Infoboxes zijn de elementen die bij sommige Wikipedia-artikelen aan de rechterhand worden weergegeven en vaak semi-gestructureerde informatie bevatten. Hetzelfde ‘soort’ Wikipedia-artikelen heeft veelal hetzelfde soort infoboxes, zoals steden, zangers, et cetera. Sjablonen lijken hier enigszins op en bevatten ook gestructureerde informatie die specifiek is voor een bepaald soort onderwerp, zoals medicijnen of vliegvelden. DBpedia is een initiatief dat als doel heeft deze informatie automatisch uit Wikipedia te extraheren en beschikbaar te stellen in LOD. Door zijn algemene aard speelt DBpedia hier een centrale rol.
 
-\[caption id="attachment\_643" align="alignright" width="300"\][![Voorbeeld van Fietstas annotaties](images/Figuur_2-300x238.png "Fietstas annotaties")](http://edgar.meij.pro/wp-content/uploads/2012/02/Figuur_2.png) Voorbeeld van Fietstas annotaties.\[/caption\]
+\[caption id="attachment_643" align="alignright" width="300"\][![Voorbeeld van Fietstas annotaties](images/Figuur_2-300x238.png "Fietstas annotaties")](http://edgar.meij.pro/wp-content/uploads/2012/02/Figuur_2.png) Voorbeeld van Fietstas annotaties.\[/caption\]
 
 Methoden die tekst kunnen linken aan entiteiten gebruiken in belangrijke mate taaltechnologie in combinatie met machine leren, en zijn erop gericht om entiteiten, netwerken van entiteiten, profielen van entiteiten of relaties tussen entiteiten en hun relaties in teksten te herkennen. Aan de Universiteit van Amsterdam werken we sinds 2008 aan een gedistribueerde omgeving genaamd Fietstas (nu [xTAS](http://xtas.net/ "xTAS") genaamd), die de vereiste functionaliteit als web service aanbiedt. Naast verschillende vormen van tekstnormalisatie biedt Fietstas ook semantische functionaliteiten zoals het herkennen van entiteiten en relaties, het normaliseren van entiteiten en het genereren van ‘profielen’ van entiteiten. Dit maakt het mogelijk willekeurige tekst aan te bieden en een lijst met gevonden entiteiten terug te krijgen. Zie de figuur voor een illustratie van het soort van documentannotaties dat daarbij door Fietstas gegenereerd wordt. Wat kunnen we met de ontdekte links tussen tekst en Wikipedia? Vanwege de directe koppeling tussen Wikipedia en DBpedia kunnen de tools voor semantisch linken (zoals Fietstas of Wikipedia-Miner) direct gebruikt worden om LOD-entiteiten te herkennen in willekeurige teksten, [gebruikmakend van aanvullende informatie uit Wikipedia](http://edgar.meij.pro/mapping-queries-linking-open-data-cloud-case-study-dbpedia/ "Mapping queries to the Linking Open Data cloud: A case study using DBpedia"). Zodra entiteiten zijn herkend, kunnen we deze inzetten tijdens het zoekproces.
 

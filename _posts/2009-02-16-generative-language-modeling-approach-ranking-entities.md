@@ -1,10 +1,10 @@
 ---
 title: "A Generative Language Modeling Approach for Ranking Entities"
 date: "2009-02-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "e-meij-information-retrieval"
   - "entity-finding"
   - "entity-list-completion"

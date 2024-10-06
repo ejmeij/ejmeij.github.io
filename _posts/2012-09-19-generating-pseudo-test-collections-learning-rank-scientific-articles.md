@@ -1,11 +1,11 @@
 ---
 title: "Generating Pseudo Test Collections for Learning to Rank Scientific Articles"
 date: "2012-09-19"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "clef"
   - "clef-blog-test-collection"
   - "information-retrieval"

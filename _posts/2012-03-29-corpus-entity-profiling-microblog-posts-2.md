@@ -1,11 +1,11 @@
 ---
 title: "A Corpus for Entity Profiling in Microblog Posts"
 date: "2012-03-29"
-categories: 
+categories:
   - "blog"
   - "publication"
   - "workshop"
-tags: 
+tags:
   - "entity-linking"
   - "entity-profiling"
   - "identifying-entity-aspects-in-microblog-posts"
@@ -22,6 +22,6 @@ Microblogs have become an invaluable source of information for the purpose of on
 
 In this paper we present two manually annotated corpora to evaluate the task of identifying aspects on Twitter, both of them based upon the [WePS-3 ORM](http://nlp.uned.es/weps/weps-3 "WEPS-3 ORM") task dataset and made available online. The first is created using a pooling methodology, for which we have implemented various methods for automatically extracting aspects from tweets that are relevant for an entity. Human assessors have labeled each of the candidates as being relevant. The second corpus is more fine-grained and contains opinion targets. Here, annotators consider individual tweets related to an entity and manually identify whether the tweet is opinionated and, if so, which part of the tweet is subjective and what the target of the sentiment is, if any.
 
-You can find more information on this test collection at [http://nlp.uned.es/~damiano/datasets/entityProfiling\_ORM\_Twitter.html](http://nlp.uned.es/~damiano/datasets/entityProfiling_ORM_Twitter.html "A Corpus for Entity Profiling in Microblog Posts Dataset").
+You can find more information on this test collection at [http://nlp.uned.es/~damiano/datasets/entityProfiling_ORM_Twitter.html](http://nlp.uned.es/~damiano/datasets/entityProfiling_ORM_Twitter.html "A Corpus for Entity Profiling in Microblog Posts Dataset").
 
 \[bibtex key=LEROM:2012:spina\]

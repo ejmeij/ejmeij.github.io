@@ -1,11 +1,11 @@
 ---
 title: "Knowledge Graphs: An Information Retrieval Perspective"
 date: "2020-10-15"
-categories: 
+categories:
   - "blog"
   - "books-or-contributions-to-books"
   - "publication"
-tags: 
+tags:
   - "enriching-knowledge-graphs-with-text-processing-techniques"
   - "httpsedgar-meij-proknowledge-graphs-an-information-retrieval-perspective"
 coverImage: "now-publishers-e1614421414861.png"

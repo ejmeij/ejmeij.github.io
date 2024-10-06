@@ -1,10 +1,10 @@
 ---
 title: "An evaluation of entity and frequency based query completion methods"
 date: "2009-07-16"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "an-evaluation-of-entity-and-frequency-based-query-completion-methods"
   - "contextualizationsearchwikipediaconcept"
   - "dbpedia"

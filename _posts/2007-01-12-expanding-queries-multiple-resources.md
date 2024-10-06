@@ -1,10 +1,10 @@
 ---
 title: "Expanding Queries Using Multiple Resources"
 date: "2007-01-12"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "content"
   - "edgar-lemur"
   - "expanded-search-query-genomics"

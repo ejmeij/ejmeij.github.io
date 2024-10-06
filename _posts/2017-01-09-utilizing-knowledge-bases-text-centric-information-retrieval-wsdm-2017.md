@@ -1,11 +1,11 @@
 ---
 title: "Utilizing Knowledge Bases in Text-centric Information Retrieval (WSDM 2017)"
 date: "2017-01-09"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "dbpedia"
   - "entity-linking"
   - "information-retrieval"

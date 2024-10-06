@@ -1,10 +1,10 @@
 ---
 title: "Local and global algorithms for entity linking"
 date: "2013-02-21"
-categories: 
+categories:
   - "publication"
   - "submitted"
-tags: 
+tags:
   - "entity-linking-algorithm"
   - "httpgoogleweblight-comlite_urlhttpedgar-meij-protagpenerbit-buku-internasional-lambang-kuda"
   - "httpgoogleweblight-comlite_urlhttpedgar-meij-protagpenerbit-buku-internasional-logo-kuda"
@@ -26,5 +26,3 @@ tags:
   - "penerbit-buku-internasional-logo-kuda"
   - "penerbit-komik-logo-kepala-kuda"
 ---
-
-

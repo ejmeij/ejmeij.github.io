@@ -1,10 +1,10 @@
 ---
 title: "Learning Semantic Query Suggestions"
 date: "2009-10-25"
-categories: 
+categories:
   - "conference"
   - "publication"
-tags: 
+tags:
   - "dbpedia"
   - "diversification-framework"
   - "entity-linking"

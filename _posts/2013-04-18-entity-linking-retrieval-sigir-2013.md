@@ -1,9 +1,9 @@
 ---
 title: "Entity Linking and Retrieval (SIGIR 2013)"
 date: "2013-04-18"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "entity-finding"
   - "entity-linking"
   - "entity-linking-and-retrieval"

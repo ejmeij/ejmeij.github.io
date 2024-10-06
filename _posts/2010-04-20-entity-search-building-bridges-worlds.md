@@ -1,10 +1,10 @@
 ---
 title: "Entity Search: Building Bridges between Two Worlds"
 date: "2010-04-20"
-categories: 
+categories:
   - "publication"
   - "workshop"
-tags: 
+tags:
   - "edgar-entity-search"
   - "edgar-meij-yahoo"
   - "edgar-sparql"

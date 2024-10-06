@@ -1,7 +1,7 @@
 ---
 title: "ECIR 23 Tutorial: Neuro-Symbolic Approaches for Information Retrieval"
 date: "2023-03-08"
-categories: 
+categories:
   - "blog"
   - "publication"
   - "tutorial-publication"

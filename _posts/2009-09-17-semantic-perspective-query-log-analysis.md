@@ -1,10 +1,10 @@
 ---
 title: "A Semantic Perspective on Query Log Analysis"
 date: "2009-09-17"
-categories: 
+categories:
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "a-semantic-perspective-on-query-log-analysis"
   - "clef"
   - "log-file-analysis-semantic"

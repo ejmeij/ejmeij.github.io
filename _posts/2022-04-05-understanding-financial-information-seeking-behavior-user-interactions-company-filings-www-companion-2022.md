@@ -1,7 +1,7 @@
 ---
 title: "Understanding Financial Information Seeking Behavior from User Interactions with Company Filings (WWW companion 2022)"
 date: "2022-04-05"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"

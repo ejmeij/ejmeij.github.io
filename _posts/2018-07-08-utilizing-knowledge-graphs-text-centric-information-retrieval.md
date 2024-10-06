@@ -1,11 +1,11 @@
 ---
 title: "Utilizing Knowledge Graphs for Text-Centric Information Retrieval"
 date: "2018-07-08"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "artificial-intelligence"
   - "dietz-kotov-and-meij-2018"
   - "edgar-meij-semantic-presentation"

@@ -1,10 +1,10 @@
 ---
 title: "Wij-woorden op websites: Zoekmachines voor geesteswetenschappers"
 date: "2011-09-01"
-categories: 
+categories:
   - "books-or-contributions-to-books"
   - "publication"
-tags: 
+tags:
   - "information-retrieval"
   - "verbondenheid-met-de-geesteswetenschappen"
   - "wij-woorden"

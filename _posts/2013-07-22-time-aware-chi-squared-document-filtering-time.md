@@ -1,10 +1,10 @@
 ---
 title: "Time-Aware Chi-squared for Document Filtering over Time"
 date: "2013-07-22"
-categories: 
+categories:
   - "publication"
   - "workshop"
-tags: 
+tags:
   - "adaptive-filtering"
   - "edgar-meij"
   - "edgar-meij-qa-challenge"

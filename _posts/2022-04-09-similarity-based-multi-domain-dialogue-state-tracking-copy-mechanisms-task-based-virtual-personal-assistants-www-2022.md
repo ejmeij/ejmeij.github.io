@@ -1,7 +1,7 @@
 ---
 title: "Similarity-based Multi-Domain Dialogue State Tracking with Copy Mechanisms for Task-based Virtual Personal Assistants (WWW 2022)"
 date: "2022-04-09"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"

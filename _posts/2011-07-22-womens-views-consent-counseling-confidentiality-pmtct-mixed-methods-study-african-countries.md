@@ -1,10 +1,10 @@
 ---
 title: "Women's views on consent, counseling and confidentiality in Pmtct: a mixed-methods study in four African countries"
 date: "2011-07-22"
-categories: 
+categories:
   - "journal"
   - "publication"
-tags: 
+tags:
   - "counseling-in-pmtct"
   - "womens-views-on-consent-counseling-and-confidentiality-in-pmtct-a-mixed-methods-study-in-four-african-countries"
 coverImage: "pmtct.png"

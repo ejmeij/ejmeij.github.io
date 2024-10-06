@@ -1,11 +1,11 @@
 ---
 title: "Identifying Entity Aspects in Microblog Posts"
 date: "2012-05-03"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "aspect-identification"
   - "dentifying-entity-aspects-in-microblog-posts"
   - "entity-linking"

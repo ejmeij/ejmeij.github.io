@@ -1,9 +1,9 @@
 ---
 title: "Entity Linking and Retrieval"
 date: "2013-02-18"
-categories: 
+categories:
   - "blog"
-tags: 
+tags:
   - "edgar-meij-entity-linking"
   - "entity-f"
   - "entity-linking"

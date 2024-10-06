@@ -1,11 +1,11 @@
 ---
 title: "Utilizing Knowledge Bases in Text-centric Information Retrieval (ICTIR 2016)"
 date: "2016-09-12"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "dbpedia"
   - "entity-linking"
   - "httpsedgar-meij-pro"

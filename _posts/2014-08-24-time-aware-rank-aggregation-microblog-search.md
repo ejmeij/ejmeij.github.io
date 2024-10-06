@@ -1,11 +1,11 @@
 ---
 title: "Time-Aware Rank Aggregation for Microblog Search"
 date: "2014-08-24"
-categories: 
+categories:
   - "blog"
   - "conference"
   - "publication"
-tags: 
+tags:
   - "combmnz"
   - "combsum"
   - "data-fusion"

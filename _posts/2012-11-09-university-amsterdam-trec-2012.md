@@ -1,11 +1,11 @@
 ---
 title: "The University of Amsterdam at TREC 2012"
 date: "2012-11-09"
-categories: 
+categories:
   - "blog"
   - "publication"
   - "unrefereed"
-tags: 
+tags:
   - "context-based-entity-linking-university-of-amsterdam-at-tac-2012"
   - "edgar_meij"
   - "edgar-de-meij"
