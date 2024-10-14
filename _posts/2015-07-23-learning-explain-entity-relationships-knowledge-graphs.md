@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Learning to Explain Entity Relationships in Knowledge Graphs"
 date: "2015-07-23"
 categories:

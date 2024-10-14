@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Using Prior Information Derived from Citations in Literature Search"
 date: "2007-05-13"
 categories:

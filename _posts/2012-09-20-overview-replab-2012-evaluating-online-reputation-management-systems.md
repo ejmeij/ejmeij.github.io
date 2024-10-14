@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Overview of RepLab 2012: Evaluating Online Reputation Management Systems"
 date: "2012-09-20"
 categories:

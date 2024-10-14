@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Measuring Concept Relatedness Using Language Models"
 date: "2008-07-16"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Adaptive Temporal Query Modeling"
 date: "2011-11-23"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Dynamic Collective Entity Representations for Entity Ranking"
 date: "2016-01-07"
 categories:

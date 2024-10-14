@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Online Religious Studies"
 date: "2011-06-20"
 categories:

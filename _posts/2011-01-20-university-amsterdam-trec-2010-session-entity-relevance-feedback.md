@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "The University of Amsterdam at Trec 2010: Session, Entity, and Relevance Feedback"
 date: "2011-01-20"
 categories:

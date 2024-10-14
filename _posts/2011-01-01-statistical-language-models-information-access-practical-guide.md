@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Statistical Language Models for Information Access: A Practical Guide"
 date: "2011-01-01"
 categories:

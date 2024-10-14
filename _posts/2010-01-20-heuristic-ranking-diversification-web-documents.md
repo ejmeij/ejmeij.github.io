@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Heuristic Ranking and Diversification of Web Documents"
 date: "2010-01-20"
 categories:

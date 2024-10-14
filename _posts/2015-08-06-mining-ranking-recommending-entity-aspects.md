@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Mining, ranking and recommending entity aspects"
 date: "2015-08-06"
 categories:

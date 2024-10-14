@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Improving the Utility of Knowledge Graph Embeddings with Calibration"
 date: "2020-04-02"
 categories:

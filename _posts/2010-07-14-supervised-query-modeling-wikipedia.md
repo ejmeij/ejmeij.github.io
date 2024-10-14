@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Supervised query modeling using Wikipedia"
 date: "2010-07-14"
 categories:

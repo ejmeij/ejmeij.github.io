@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "The University of Amsterdam at the CLEF 2008 Domain Speciﬁc Track - Parsimonious Relevance and Concept Models"
 date: "2008-09-16"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Contextualizing Trending Entities in News Stories"
 date: "2021-03-01"
 categories:

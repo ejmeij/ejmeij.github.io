@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Entity Search: Building Bridges between Two Worlds"
 date: "2010-04-20"
 categories:

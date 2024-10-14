@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction"
 date: "2020-11-16"
 categories:

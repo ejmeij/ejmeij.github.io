@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "A Corpus for Entity Profiling in Microblog Posts"
 date: "2012-03-29"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Language Models for Enterprise Search: Query Expansion and Combination of Evidence"
 date: "2007-01-12"
 categories:

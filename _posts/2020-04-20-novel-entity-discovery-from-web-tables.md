@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Novel Entity Discovery from Web Tables"
 date: "2020-04-20"
 categories:

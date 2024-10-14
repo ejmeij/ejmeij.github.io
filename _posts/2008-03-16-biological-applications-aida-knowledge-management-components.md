@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Biological applications of Aida knowledge management components"
 date: "2008-03-16"
 categories:

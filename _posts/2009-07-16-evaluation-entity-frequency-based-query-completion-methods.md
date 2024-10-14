@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "An evaluation of entity and frequency based query completion methods"
 date: "2009-07-16"
 categories:

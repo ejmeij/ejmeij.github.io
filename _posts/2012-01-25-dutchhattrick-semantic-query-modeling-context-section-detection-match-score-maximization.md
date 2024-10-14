@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "DutchHatTrick: Semantic query modeling, ConText, section detection, and match score maximization."
 date: "2012-01-25"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Entity Retrieval from Multilingual Knowledge Graphs (MRL 2022)"
 date: "2022-12-08"
 categories:

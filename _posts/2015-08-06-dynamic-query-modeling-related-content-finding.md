@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Dynamic query modeling for related content finding"
 date: "2015-08-06"
 categories:

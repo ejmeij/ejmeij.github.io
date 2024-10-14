@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Archieven Linken met Semantische Zoekmachines"
 date: "2010-12-01"
 categories:

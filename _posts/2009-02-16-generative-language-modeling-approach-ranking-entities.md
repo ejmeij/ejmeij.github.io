@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "A Generative Language Modeling Approach for Ranking Entities"
 date: "2009-02-16"
 categories:

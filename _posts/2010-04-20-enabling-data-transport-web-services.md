@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Enabling Data Transport between Web Services"
 date: "2010-04-20"
 categories:

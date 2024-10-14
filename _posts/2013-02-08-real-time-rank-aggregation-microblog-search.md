@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Real-Time Rank Aggregation for Microblog Search"
 date: "2013-02-08"
 categories:

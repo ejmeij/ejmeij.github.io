@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Van Case-Based Reasoning tot Information Retrieval; Case retrieval voor de helpdesk van een webhosting bedrijf"
 date: "2005-09-01"
 categories:

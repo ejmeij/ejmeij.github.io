@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Team COMMIT at TREC 2011"
 date: "2012-01-25"
 categories:

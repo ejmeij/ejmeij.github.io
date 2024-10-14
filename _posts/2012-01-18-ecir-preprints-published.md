@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "ECIR preprints published"
 date: "2012-01-18"
 categories:

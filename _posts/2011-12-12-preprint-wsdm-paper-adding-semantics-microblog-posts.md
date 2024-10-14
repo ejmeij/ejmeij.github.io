@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Preprint of my WSDM paper, 'Adding Semantics to Microblog Posts' available now"
 date: "2011-12-12"
 categories:

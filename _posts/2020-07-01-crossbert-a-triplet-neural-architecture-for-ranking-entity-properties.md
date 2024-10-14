@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "CrossBERT: A Triplet Neural Architecture for Ranking Entity Properties"
 date: "2020-07-01"
 categories:

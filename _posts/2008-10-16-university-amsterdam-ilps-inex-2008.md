@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "The University of Amsterdam (Ilps) at Inex 2008"
 date: "2008-10-16"
 categories:

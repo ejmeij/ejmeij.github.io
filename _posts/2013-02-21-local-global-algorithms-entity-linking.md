@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Local and global algorithms for entity linking"
 date: "2013-02-21"
 categories:

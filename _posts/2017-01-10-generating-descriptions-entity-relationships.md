@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Generating descriptions of entity relationships"
 date: "2017-01-10"
 categories:

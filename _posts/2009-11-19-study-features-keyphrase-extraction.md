@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "A Comparative Study of Features for Keyphrase Extraction"
 date: "2009-11-19"
 categories:

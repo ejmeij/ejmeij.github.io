@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "The Second Workshop on Knowledge Graphs and Semantics for Text Retrieval, Analysis, and Understanding (KG4IR)"
 date: "2018-07-08"
 categories:

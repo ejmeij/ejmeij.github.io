@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "A comparison of five semantic linking algorithms on tweets"
 date: "2012-01-11"
 categories:

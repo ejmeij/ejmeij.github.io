@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Expanding Queries Using Multiple Resources"
 date: "2007-01-12"
 categories:

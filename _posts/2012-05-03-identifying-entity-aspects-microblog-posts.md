@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Identifying Entity Aspects in Microblog Posts"
 date: "2012-05-03"
 categories:

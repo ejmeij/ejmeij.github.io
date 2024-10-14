@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "The University of Amsterdam at the TREC 2011 Session Track"
 date: "2012-01-25"
 categories:

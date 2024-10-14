@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Investigating the Semantic Gap through Query Log Analysis"
 date: "2009-10-25"
 categories:

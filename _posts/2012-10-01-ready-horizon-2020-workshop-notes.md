@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Getting ready for Horizon 2020 – Workshop notes"
 date: "2012-10-01"
 categories:

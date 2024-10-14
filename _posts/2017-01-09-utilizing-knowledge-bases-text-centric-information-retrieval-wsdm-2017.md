@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Utilizing Knowledge Bases in Text-centric Information Retrieval (WSDM 2017)"
 date: "2017-01-09"
 categories:

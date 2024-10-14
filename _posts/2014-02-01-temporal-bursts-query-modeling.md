@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Using Temporal Bursts for Query Modeling"
 date: "2014-02-01"
 categories:

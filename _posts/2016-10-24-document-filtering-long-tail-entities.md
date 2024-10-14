@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Document Filtering for Long-tail Entities"
 date: "2016-10-24"
 categories:

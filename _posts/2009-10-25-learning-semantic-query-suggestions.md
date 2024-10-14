@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Learning Semantic Query Suggestions"
 date: "2009-10-25"
 categories:

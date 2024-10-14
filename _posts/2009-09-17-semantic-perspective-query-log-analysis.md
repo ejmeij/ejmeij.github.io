@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "A Semantic Perspective on Query Log Analysis"
 date: "2009-09-17"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Topical Diversity and Relevance Feedback"
 date: "2010-01-20"
 categories:

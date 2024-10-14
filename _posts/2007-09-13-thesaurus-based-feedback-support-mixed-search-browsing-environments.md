@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Thesaurus-Based Feedback to Support Mixed Search and Browsing Environments"
 date: "2007-09-13"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Entity Linking and Retrieval"
 date: "2013-02-18"
 categories:

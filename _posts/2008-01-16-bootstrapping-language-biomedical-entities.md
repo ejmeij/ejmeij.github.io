@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Bootstrapping Language Associated with Biomedical Entities"
 date: "2008-01-16"
 categories:

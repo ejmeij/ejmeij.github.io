@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "A query model based on normalized log-likelihood"
 date: "2009-11-19"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Wij-woorden op websites: Zoekmachines voor geesteswetenschappers"
 date: "2011-09-01"
 categories:

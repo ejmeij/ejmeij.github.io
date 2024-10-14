@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Combining Thesauri-based Methods for Biomedical Retrieval"
 date: "2006-01-12"
 categories:

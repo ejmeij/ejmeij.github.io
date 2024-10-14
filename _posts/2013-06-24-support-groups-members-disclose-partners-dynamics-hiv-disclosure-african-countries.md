@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Do support groups members disclose less to their partners? the dynamics of HIV disclosure in four African countries"
 date: "2013-06-24"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Improving Dialogue State Tracking with Turn-based Loss Function and Sequential Data Augmentation (EMNLP 2021)"
 date: "2021-11-08"
 categories:

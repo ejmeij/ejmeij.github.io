@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Women's views on consent, counseling and confidentiality in Pmtct: a mixed-methods study in four African countries"
 date: "2011-07-22"
 categories:

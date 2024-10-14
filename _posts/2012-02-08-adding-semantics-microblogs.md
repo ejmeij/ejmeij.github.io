@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Adding Semantics to Microblog Posts"
 date: "2012-02-08"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Een bril die alles weet"
 date: "2013-02-11"
 categories:

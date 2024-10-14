@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Concept models for domain-specific search"
 date: "2009-02-16"
 categories:

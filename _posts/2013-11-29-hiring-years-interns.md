@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "We're now hiring next year's interns!"
 date: "2013-11-29"
 categories:

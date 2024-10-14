@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Structuring and extracting knowledge for the support of hypothesis generation in molecular biology"
 date: "2009-10-20"
 categories:

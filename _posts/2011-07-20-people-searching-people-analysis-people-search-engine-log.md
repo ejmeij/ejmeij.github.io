@@ -1,5 +1,6 @@
 ---
 layout: default
+layout: default
 title: "People searching for people: analysis of a people search engine log"
 date: "2011-07-20"
 categories:

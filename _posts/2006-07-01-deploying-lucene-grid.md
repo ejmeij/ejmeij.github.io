@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Deploying Lucene on the Grid"
 date: "2006-07-01"
 categories:

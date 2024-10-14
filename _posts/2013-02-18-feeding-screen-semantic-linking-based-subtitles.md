@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Feeding the Second Screen: Semantic Linking based on Subtitles"
 date: "2013-02-18"
 categories:

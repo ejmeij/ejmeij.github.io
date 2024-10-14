@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Fast and Space-Efficient Entity Linking in Queries"
 date: "2015-01-20"
 categories:

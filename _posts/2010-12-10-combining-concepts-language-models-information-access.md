@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Combining Concepts and Language Models for Information Access"
 date: "2010-12-10"
 categories:

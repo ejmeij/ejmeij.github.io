@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Entity Linking and Retrieval for Semantic Search (WSDM 2014)"
 date: "2014-02-24"
 categories:

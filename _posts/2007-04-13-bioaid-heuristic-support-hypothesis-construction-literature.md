@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "My first BioAID: heuristic support for hypothesis construction from literature"
 date: "2007-04-13"
 categories:

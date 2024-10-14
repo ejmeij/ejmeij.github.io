@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Dir 2011: the eleventh Dutch-Belgian information retrieval workshop"
 date: "2011-05-20"
 categories:

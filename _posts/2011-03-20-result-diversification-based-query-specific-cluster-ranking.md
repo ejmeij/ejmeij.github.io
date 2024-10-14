@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Result diversification based on query-specific cluster ranking"
 date: "2011-03-20"
 categories:

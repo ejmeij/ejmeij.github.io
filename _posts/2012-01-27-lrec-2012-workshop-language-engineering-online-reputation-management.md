@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "LREC 2012 Workshop on Language Engineering for Online Reputation Management"
 date: "2012-01-27"
 categories:

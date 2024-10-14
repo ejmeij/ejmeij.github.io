@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Parsimonious concept modeling"
 date: "2008-07-16"
 categories:

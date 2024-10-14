@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "OpenGeist: Insight in the Stream of Page Views on Wikipedia"
 date: "2012-07-03"
 categories:

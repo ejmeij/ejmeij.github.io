@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Incorporating Non-Relevance Information in the Estimation of Query Models"
 date: "2009-01-16"
 categories:

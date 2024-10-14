@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Zoekmachines van de toekomst"
 date: "2012-02-12"
 categories:

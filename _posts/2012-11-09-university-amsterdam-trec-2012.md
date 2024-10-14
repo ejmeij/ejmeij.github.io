@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "The University of Amsterdam at TREC 2012"
 date: "2012-11-09"
 categories:

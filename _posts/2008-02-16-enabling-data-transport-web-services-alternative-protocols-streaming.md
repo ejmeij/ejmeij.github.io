@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Enabling Data Transport between Web Services through alternative protocols and Streaming"
 date: "2008-02-16"
 categories:

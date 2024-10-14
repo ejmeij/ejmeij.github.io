@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "A Framework for Unsupervised Spam Detection in Social Networking Sites"
 date: "2011-11-23"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Linking queries to entities"
 date: "2014-02-24"
 categories:

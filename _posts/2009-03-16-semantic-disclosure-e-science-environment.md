@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Semantic disclosure in an e-Science environment"
 date: "2009-03-16"
 categories:

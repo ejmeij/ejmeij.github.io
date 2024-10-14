@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Report on the first workshop on bias in automatic knowledge graph construction at AKBC 2020"
 date: "2020-12-08"
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Personalized Time-Aware Tweets Summarization"
 date: "2013-02-08"
 categories:

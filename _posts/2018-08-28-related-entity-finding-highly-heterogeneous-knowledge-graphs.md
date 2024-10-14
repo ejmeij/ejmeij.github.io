@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Related Entity Finding on Highly-heterogeneous Knowledge Graphs"
 date: "2018-08-28"
 categories:

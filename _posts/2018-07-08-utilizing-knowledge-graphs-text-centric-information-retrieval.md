@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Utilizing Knowledge Graphs for Text-Centric Information Retrieval"
 date: "2018-07-08"
 categories:

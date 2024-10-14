@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Uncertainty over Uncertainty: Investigating the Assumptions, Annotations, and Text Measurements of Economic Policy Uncertainty"
 date: "2020-11-18"
 categories:

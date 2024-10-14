@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Proceedings of the KG-BIAS Workshop 2020 at AKBC 2020"
 date: "2020-06-18"
 categories:

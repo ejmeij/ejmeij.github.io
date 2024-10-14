@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Integrating Conceptual Knowledge into Relevance Models: A Model and Estimation Method"
 date: "2007-10-13"
 categories:

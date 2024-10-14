@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Towards a combined model for search and navigation of annotated documents"
 date: "2008-07-16"
 categories:

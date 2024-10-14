@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Mapping queries to the Linking Open Data cloud: A case study using DBpedia"
 date: "2011-04-02"
 categories:

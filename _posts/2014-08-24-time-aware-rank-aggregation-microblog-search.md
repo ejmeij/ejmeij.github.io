@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Time-Aware Rank Aggregation for Microblog Search"
 date: "2014-08-24"
 categories:

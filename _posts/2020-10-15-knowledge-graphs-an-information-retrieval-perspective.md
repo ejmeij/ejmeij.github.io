@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Knowledge Graphs: An Information Retrieval Perspective"
 date: "2020-10-15"
 categories:

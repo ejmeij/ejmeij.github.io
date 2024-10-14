@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Identifying Notable News Stories"
 date: "2020-04-14"
 categories:
