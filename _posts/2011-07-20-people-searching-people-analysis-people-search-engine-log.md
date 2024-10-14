@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "People searching for people: analysis of a people search engine log"
 date: "2011-07-20"
 categories:
@@ -34,7 +35,7 @@ Our findings not only offer insight into search behavior in people search engine
 
 \[bibtex key=sigir:2011:weerkamp\]
 
-![ACM DL Author-ize service](images/oa.gif)[People searching for people: analysis of a people search engine log](http://dl.acm.org/authorize?6550391 "People searching for people: analysis of a people search engine log")
+![ACM DL Author-ize service](/assets/img/images/oa.gif)[People searching for people: analysis of a people search engine log](http://dl.acm.org/authorize?6550391 "People searching for people: analysis of a people search engine log")
 
 Wouter Weerkamp, Richard Berendsen, Bogomil Kovachev, Edgar Meij, Krisztian Balog, Maarten de Rijke  
 SIGIR '11 Proceedings of the 34th international ACM SIGIR conference on Research and development in Information, 2011

@@ -29,7 +29,7 @@ tags:
 coverImage: "20120209-NRC-Weekend-Een-bril-die-alles-weet-image.jpg"
 ---
 
-![20120209 NRC Weekend - Een bril die alles weet](images/20120209-NRC-Weekend-Een-bril-die-alles-weet-image-150x150.jpg)
+![20120209 NRC Weekend - Een bril die alles weet]20120209-NRC-Weekend-Een-bril-die-alles-weet-image-150x150.jpg)
 
 _Dit is het artikel uit het NRC van 9 februari 2013, getiteld "Een bril die alles weet."_
 
@@ -65,4 +65,4 @@ Zeker is dat het aantal grote spelers op de markt beperkt zal blijven. Google be
 
 Die enorme voorsprong haalt niemand makkelijk meer in.
 
-[![20120209 NRC Weekend - Een bril die alles weet](images/20120209-NRC-Weekend-Een-bril-die-alles-weet-150x150.jpg)](http://edgar.meij.pro/wp-content/uploads/2013/02/20120209-NRC-Weekend-Een-bril-die-alles-weet.jpg "20120209 NRC Weekend - Een bril die alles weet")
+[![20120209 NRC Weekend - Een bril die alles weet]20120209-NRC-Weekend-Een-bril-die-alles-weet-150x150.jpg)](http://edgar.meij.pro/wp-content/uploads/2013/02/20120209-NRC-Weekend-Een-bril-die-alles-weet.jpg "20120209 NRC Weekend - Een bril die alles weet")

@@ -27,7 +27,7 @@ tags:
 coverImage: "A3D9EC17-1321-B0BE-A40DF6F59B7D0C68.FOTO_IN.jpeg"
 ---
 
-![Horizon 2020](images/horizon2020.jpg "Horizon 2020")
+![Horizon 2020]horizon2020.jpg "Horizon 2020")
 
 These are my notes from the "Getting ready for Horizon 2020" workshop, presented by Dr. Seán McCarthy from Hyperion Ltd at CWI on Oct 1 2012.<!--more-->
 
