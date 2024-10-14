@@ -7,8 +7,7 @@ first_name: Edgar
 middle_name: J.
 last_name: Meij
 email: edgar.meij [at] gmail.com # [edgar&#46;&#109;ei&#106;&#64;&#103;&#109;ail&#46;com](&#109;ailt&#111;&#58;e%64g&#97;r&#46;me&#105;&#106;&#64;g%&#54;&#68;ail&#46;co&#37;6D)
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to Edgar Meij's homepage.
+description: Welcome to Edgar Meij's homepage.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -424,7 +423,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_google_verification: false # enables google site verification

@@ -18,4 +18,4 @@ tags:
 coverImage: "twitter_research.png"
 ---
 
-The camera-ready version of my WSDM paper, [Adding Semantics to Microblog Posts](http://edgar.meij.pro/adding-semantics-microblogs/ "Adding Semantics to Microblog Posts") (with Wouter Weerkamp and [Maarten de Rijke](http://staff.science.uva.nl/~mdr/ "Maarten de Rijke's homepage")) can be found [here](http://bit.ly/q6Mo6m). I will release the associated data files (such as the manual annotations) soon, stay tuned.
+The camera-ready version of my WSDM paper, Adding Semantics to Microblog Posts (with Wouter Weerkamp and [Maarten de Rijke](http://staff.science.uva.nl/~mdr/ "Maarten de Rijke's homepage")) can be found on this site. I will release the associated data files (such as the manual annotations) soon, stay tuned.
