@@ -34,4 +34,4 @@ Microblogs have become an important source of information for marketing, intelli
 
 We propose a solution to the problem of determining what a microblog post is about through semantic linking: we add semantics to posts by automatically identifying concepts that are semantically related to it and generating links to the corresponding Wikipedia articles. The identified concepts can subsequently be used for, e.g., social media mining, thereby reducing the need for manual inspection and selection. Using a purpose-built test collection of tweets, we show that recently proposed approaches for semantically linking do not perform well, mainly due to the idiosyncratic nature of microblog posts. We propose a novel method based on machine learning with a set of innovative features and show that is able to achieve significant improvements over all other methods, especially in terms of precision.
 
-\[bibtex key=WSDM:2012:meij\]
+[PDF](/assets/pdf/wsdm-2012-meij.pdf)

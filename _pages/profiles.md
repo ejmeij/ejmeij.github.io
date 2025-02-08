@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: 
+description:
 nav: false
 nav_order: 7
 
@@ -13,6 +13,5 @@ profiles:
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: true # crops the image to make it circular
-    more_info: 
-  
+    more_info:
 ---

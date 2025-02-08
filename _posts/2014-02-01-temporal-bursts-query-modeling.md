@@ -27,7 +27,7 @@ coverImage: "timeseries.png"
 
 In this paper, we present an approach to query modeling that leverages the temporal distribution of documents in an initially retrieved set of documents. <!--more-->Query modeling is often used to better capture a user's information need and help bridge the lexical gap between a query and the documents to be retrieved. Typical approaches consider terms in some set of documents and select the most informative ones. These terms may then be reweighted and–in a language modeling setting–be used to estimate a query model, i.e., a distribution over terms for a query. Temporal distributions tend to exhibit bursts, especially in news-related document collections.
 
-\[caption id="attachment_891" align="aligncenter" width="600"\][![Time series for the query "grammys"]grammys.png)](http://edgar.meij.pro/wp-content/uploads/2013/02/grammys.png) Time series for the query _grammys_.\[/caption\]
+\[caption id="attachment*891" align="aligncenter" width="600"\][![Time series for the query "grammys"]grammys.png)](http://edgar.meij.pro/wp-content/uploads/2013/02/grammys.png) Time series for the query \_grammys*.\[/caption\]
 
 We define a burst to be a time period where unusually many documents were published; in our approach we detect bursts in result lists returned for a query. We then model the bursts using a reduced result list and select its most descriptive terms. Finally, we merge the term sets so as to arrive at a reformulation of the original query.
 

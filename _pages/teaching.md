@@ -2,10 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 5
 ---
+
 It is both exciting and rewarding to pursue knowledge not only through research but also through applying research in practical settings and through teaching, sharing, and advising. Teaching and supervising students are valuable learning processes for the students as well as for myself and I have been doing so ever since I started in academia. Teaching is indeed very rewarding.
 
 I have taught numerous courses, ranging from information retrieval and statistical language modeling to data mining and research methods. In these courses I have taught various topics at various levels, including the MSc, BSc, undergrad, and postgrad level. I have even taught at a [high school](https://informatica.fonsvitae.nl/ "Fons Vitae Informatica") in my free time, teaching youngsters the basics of computer science and preparing them for college, university, and beyond. They are likely to become the students and educators of the future, which makes teaching them now even more rewarding.

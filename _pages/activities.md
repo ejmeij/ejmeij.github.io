@@ -2,7 +2,7 @@
 title: "Professional Activities"
 layout: about
 permalink: /activities/
-subtitle: 
+subtitle:
 nav: true
 nav_order: 4
 ---
@@ -29,14 +29,14 @@ nav_order: 4
 - Neuro-Symbolic Approaches for Information Retrieval (tutorial)
 - WWW 2023 (Sponsorship chair)
 - [KDD 2020](https://www.kdd.org/kdd2020/) – [International Workshop on Knowledge Graph: Mining Knowledge Graph for Deep Insights](https://suitclub.ischool.utexas.edu/IWKG_KDD2020/index.html)
-- [AKBC 2020](https://www.akbc.ws/2020/) – [Bias in Automatic Knowledge Graph Construction](https://kg-bias.github.io/) 
+- [AKBC 2020](https://www.akbc.ws/2020/) – [Bias in Automatic Knowledge Graph Construction](https://kg-bias.github.io/)
 - [WWW 2019](https://www2019.thewebconf.org/) – [Workshop on Knowledge Graph Technology and Applications](https://suitclub.ischool.utexas.edu/KGTA_WWW2019/index.html)
 - [SIGIR 2018](http://sigir.org/sigir2018/) – [KG4IR Workshop on Knowledge Graphs and Semantics for Text Retrieval, Analysis, and Understanding](https://kg4ir.github.io/)
 - [SIGIR 2017](http://sigir.org/sigir2017) – [KG4IR Workshop on Knowledge Graphs and Semantics for Text Retrieval, Analysis, and Understanding](https://kg4ir.github.io/previous/KG4IR-SIGIR17/)
 - Utilizing Knowledge Graphs in Text-centric Information Retrieval (tutorial)
-    - [SIGIR 2018](http://sigir.org/sigir2018): [slides](https://github.com/laura-dietz/tutorial-utilizing-kg/blob/master/sigir2018)
-    - [WSDM 2017](http://www.wsdm-conference.org/2017/): [slides](https://github.com/laura-dietz/tutorial-utilizing-kg/blob/master/wsdm2017)
-    - [ICTIR 2016](https://dl.acm.org/doi/proceedings/10.1145/2970398): [slides](https://github.com/laura-dietz/tutorial-kb4ir)
+  - [SIGIR 2018](http://sigir.org/sigir2018): [slides](https://github.com/laura-dietz/tutorial-utilizing-kg/blob/master/sigir2018)
+  - [WSDM 2017](http://www.wsdm-conference.org/2017/): [slides](https://github.com/laura-dietz/tutorial-utilizing-kg/blob/master/wsdm2017)
+  - [ICTIR 2016](https://dl.acm.org/doi/proceedings/10.1145/2970398): [slides](https://github.com/laura-dietz/tutorial-kb4ir)
 - [CLEF RepLab 2014](http://nlp.uned.es/replab2014/ "CLEF RepLab 2014")
 - [CLEF RepLab 2013](http://nlp.uned.es/replab2013/ "RepLab 2013")
 - [CLEF RepLab 2012](http://ceur-ws.org/Vol-1178/CLEF2012wn-RepLab-AmigoEt2012.pdf "RepLab 2012")
